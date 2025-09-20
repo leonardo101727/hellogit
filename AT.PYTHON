@@ -16,3 +16,8 @@ print(meu_carro.ano)      2020
 
 meu_carro.ligar()
 meu_carro.exibir_info()
+
+Toyota
+2020
+O carro está ligado.
+Marca: Toyota, Ano: 2020
